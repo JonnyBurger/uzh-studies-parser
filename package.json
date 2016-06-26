@@ -1,7 +1,7 @@
 {
   "name": "@jonny/uzh-studies-parser",
   "version": "1.0.0",
-  "description": "Parses UZH study strings like \"BSc UZH in Informatik (RO08)\"",
+  "description": "Parses UZH studies. \"BSc UZH in Informatik (RO08)\" => \"bachelor\"",
   "main": "index.js",
   "repository": "JonnyBurger/uzh-studies-parser",
   "author": {
