@@ -1,0 +1,28 @@
+{
+  "name": "@jonny/uzh-studies-parser",
+  "version": "1.0.0",
+  "description": "Parses UZH study strings like \"BSc UZH in Informatik (RO08)\"",
+  "main": "index.js",
+  "repository": "JonnyBurger/uzh-studies-parser",
+  "author": {
+    "name": "Jonny Burger",
+    "email": "jonathanburger11@gmail.com",
+    "url": "jonny.io"
+  },
+  "scripts": {
+    "test": "xo --fix && ava"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "keywords": [
+    "uzh",
+    "studies",
+    "bachelor",
+    "master"
+  ],
+  "dependencies": {
+    "ava": "^0.15.2",
+    "xo": "^0.16.0"
+  }
+}
