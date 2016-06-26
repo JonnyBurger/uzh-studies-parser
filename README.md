@@ -1,6 +1,6 @@
 # uzh-studies-parser [![Build Status](https://travis-ci.org/JonnyBurger/uzh-studies-parser.svg?branch=master)](https://travis-ci.org/JonnyBurger/uzh-studies-parser)
 
-> Find the type of degree from a UZH (University of Zurich) degree string.
+> Find the type of degree from a UZH (University of Zurich) degree name.
 
 ## Install
 ```
